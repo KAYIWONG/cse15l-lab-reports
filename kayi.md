@@ -7,17 +7,20 @@ The very first step is to download VS code.
   password: ******
 //After first time login, we can choose to cancel the passwords option. 
 //pics show below
-![image] labpic3.png
+
+![image] picc3.png
 
 Part Two:
 For the (yes/no)option, we choose yes and press enter! 
 //pics show below ; 
-![image] labpic1.png
+
+![image] picc1.png
 
 Part Three: 
 After insatlling Visual Studio Code, we are going to connect to the remote computer using VSCode’s remote option.
 //pics show below
-![image] labpic4.png
+
+![image] picc4.png
 
 Part Four: 
 After setting up the coding environment, We should Be familiar with some java comment. 
@@ -30,21 +33,23 @@ Cd… //will change your current directory to the parent directory.
 Rm -r // remove directory  
 
 //pics show below 
-![image] labpic2.png
+
+![image] picc2.png
 
 Part Five: 
 We should learn how to copy files from our computer to a remote computes by using scp!
 For example, we are using WhereamI.java! 
 //pics show below 
-![image] labpic5.png
+
+![image] picc5.png
 
 Part Six:
 How to compile and run a java file?
 we are using this formula below:
 javac (fileName).java 
 java (fileName)
-////pics show below  
-![image] labpic6.png
+
+![image] picc6.png
 
 Part Seven: 
 We can find any instrustion by course github and piazza!! 
