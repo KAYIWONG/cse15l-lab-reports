@@ -7,7 +7,7 @@ The very first step is to download VS code.
   password: ******
 //After first time login, we can choose to cancel the passwords option. 
 //pics show below
-![image] labpic3.png
+![image](labpic3.png)
   
 Part Two:
 For the (yes/no)option, we choose yes and press enter! 
