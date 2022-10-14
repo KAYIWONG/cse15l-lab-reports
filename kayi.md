@@ -14,7 +14,7 @@ Part Two:
 For the (yes/no)option, we choose yes and press enter! 
 //pics show below ; 
 
-![image] picc1.png
+![image] picc1.png 
 
 Part Three: 
 After insatlling Visual Studio Code, we are going to connect to the remote computer using VSCode’s remote option.
