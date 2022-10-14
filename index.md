@@ -44,7 +44,7 @@ we are using this formula below:
 javac (fileName).java 
 java (fileName)
 ////pics show below  
-![image](labpic6.png)
+
 
 Part Seven: 
 We can find any instrustion by course github and piazza!! 
